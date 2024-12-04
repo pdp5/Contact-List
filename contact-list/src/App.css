@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.each-contact-detail:hover {
+  cursor: pointer;
+  font-size: large;
+  font-weight: bold;
+}
+table thead tr th {
+  font-size: 1.5vw;
+}
+.each-contact-detail td {
+  font-size: large;
+  /* background-color: aqua; */
+  padding-right: 20px;
+}
+.selected-contact-detail p {
+  font-size: large;
+}
+button {
+  font-size: large;
+}
